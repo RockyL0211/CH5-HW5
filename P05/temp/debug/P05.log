@@ -1,0 +1,5 @@
+﻿D:\Apps Document\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+D:\Apps Document\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  main.c
+D:\NTUT\NTUT C HW\HW\HW5  class 5 unit 6\P05\source\main.c(18,9): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
+  P05.vcxproj -> D:\NTUT\NTUT C HW\HW\HW5  class 5 unit 6\P05\P05\P05\..\..\temp\debug\P05.exe
